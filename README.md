@@ -19,7 +19,7 @@ The pipeline automates code compilation, static code analysis, security checks, 
 
 ## 🏗 Project Architecture
 
-![Pipeline Architecture](screenshots/01-plugins.png)
+![Pipeline Architecture](architecture.png)
 
 ---
 
